@@ -2,7 +2,7 @@
 templateKey: landing-page-specific
 title: Det mest effektiva sättet att sälja kurser med digital annonsering
 date: 2023-05-23T16:07:36.785Z
-description: Så gör du för att annonsera rätt och bearbeta rätt, med rätt erbjudande
+description: Så gör du för att annonsera rätt och bearbeta rätt, med rätt erbjudande 2
 featuredpost: false
 featuredimage: /img/coffee.png
 ---
